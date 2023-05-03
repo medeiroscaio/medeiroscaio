@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hey, i am Caio Medeiros<br><br>☆ I’m currently studying at UNIFACISA 🏢<br>☆ studying python 🐍<br>☆ Contact me on caiovictor.medeiros50@gmail.com 📩<br>☆ you are welcome 
+# Hey i am Caio Medeiros
+<br><br>☆ I’m currently studying at UNIFACISA 🏢<br>☆ studying python 🐍<br>☆ Contact me on caiovictor.medeiros50@gmail.com 📩<br>☆ you are welcome 
 
 
 ## 🌐 Socials:

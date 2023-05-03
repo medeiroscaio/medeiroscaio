@@ -4,7 +4,7 @@
  ## ⇨  Looking to be a front end developer 🧑🏻‍💻
 ## 📈Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medeiroscaio&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medeiroscaio&show_icons=true&theme=highcontrast)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroscaio&show_icons=true&theme=highcontrast)](https://github.com/medeiroscaio/github-readme-stats)
 
 ## 🔧 Tech Stacks
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

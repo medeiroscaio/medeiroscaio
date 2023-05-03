@@ -1,21 +1,19 @@
-# Hey i am Caio Medeiros
-<br><br>☆ I’m currently studying at UNIFACISA 🏢<br>☆ studying python 🐍<br>☆ Contact me on caiovictor.medeiros50@gmail.com 📩<br>☆ you are welcome 
+## 👨‍💻 Welcome to Caio's profile
+  ## <br>⇨ I am currently studying at UNIFACISA UNIVERSITY 🌇
+ ## ⇨ Currently studying Python 🐍
+ ## ⇨  Looking to be a front end developer 🧑🏻‍💻
+## 📈Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medeiroscaio&show_icons=true&theme=highcontrast)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mwdeirosz) 
+## 🔧 Tech Stacks
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=medeiroscaio&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=medeiroscaio&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroscaio&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Social 
+ <a href="https://instagram.com/mwdeirosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:caiovictor.medeiros51@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=medeiroscaio&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="display: inline_block"><br>
+ 
+  <img align="right" alt="Medeiros.pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/915958079676362832/1103159085462978701/coding.gif">
+</div>

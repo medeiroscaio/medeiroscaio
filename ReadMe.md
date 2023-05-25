@@ -1,7 +1,7 @@
 ## 👨‍💻 Welcome to Caio's profile
   ## <br>⇨ I am currently studying at UNIFACISA UNIVERSITY 🌇
  ## ⇨ Currently studying Python 🐍
- ## ⇨  Looking to be a front end developer 🧑🏻‍💻
+ ## ⇨  Looking to be a back end developer 🏻‍💻
 ## ⚙️Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medeiroscaio&show_icons=true&theme=highcontrast)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroscaio&show_icons=true&theme=highcontrast)](https://github.com/medeiroscaio/github-readme-stats)

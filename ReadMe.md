@@ -1,4 +1,4 @@
-## Hey, i am Caio Medeiros 
+## Hey👋, i am Caio Medeiros 
   ## <br>⇨ I am currently studying at UNIFACISA UNIVERSITY 🌇
  ## ⇨ Currently studying Python 🐍
  ## ⇨  Looking to be a back end developer

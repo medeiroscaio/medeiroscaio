@@ -2,7 +2,7 @@
 <p align="center"> Compiling achievements, one commit at a time ❤️ <br><br> As a college student majoring in Information Systems, I'm excited to learn and explore new technologies as I develop my skills. My goal is to become a versatile <strong>Full-stack developer</strong>, and I'm motivated to use this knowledge to create high-quality solutions. Every new challenge and line of code I write brings me closer to my goal, and I'm looking forward to the exciting opportunities that the future holds in this field.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=medeiroscaio&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=medeiroscaio&theme=radical&mode=monthly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-medeiroscaio.vercel.app/api/top-langs/?username=medeiroscaio&show_icons=true&theme=radical&layout=compact" />
  </div>
  

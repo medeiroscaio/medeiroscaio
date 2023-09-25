@@ -3,10 +3,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 100px;">
   <div style="flex: 1; margin-right: 10px;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=medeiroscaio&show_icons=true&theme=midnight-purple" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=medeiroscaio&show_icons=true&theme=midnight-purple" />
   </div>
   <div style="flex: 1;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroscaio&layout=compact&theme=midnight-purple" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroscaio&layout=compact&theme=midnight-purple" />
   </div>
 </div>
 

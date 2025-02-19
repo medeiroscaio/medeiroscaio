@@ -1,7 +1,7 @@
 ## Hey, What's up? I'm Caio Medeiros 👋
 
 Full-Stack Developer | AI & Machine Learning Enthusiast
-Building full-stack applications with React, Node.js, and MongoDB while exploring AI & Machine Learning.
+Building full-stack applications with React, Node.js, and MongoDB while exploring the AI world.
 
 ## About me
 🎓 I'm currently in my 4th semester of Information Systems at UniFacisa, Brazil. Passionate about learning and constantly improving my skills through self-study and hands-on projects.

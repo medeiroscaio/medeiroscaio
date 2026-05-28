@@ -1,41 +1,56 @@
-## Hey, What's up? I'm Caio Medeiros 👋
+# Caio Medeiros
 
-Full-Stack Developer | AI & Machine Learning Enthusiast
-Building full-stack applications with React, Node.js, and MongoDB while exploring the AI world.
+`systems information · campina grande, br · data & ml`
 
-## About me
-🎓 I'm currently in my 4th semester of Information Systems at UniFacisa, Brazil. Passionate about learning and constantly improving my skills through self-study and hands-on projects.
+Penúltimo ano de Sistemas de Informação, com foco em análise de dados e machine learning.
+Construindo base sólida de forma estruturada antes de entrar no mercado como estagiário em dados.
 
-<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroscaio&layout=donut&theme=midnight-purple"/>
+---
 
-#### Technologies & Tools
+### data & ml
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="50"/>
-</p>
+```
+✅ NumPy
+✅ Pandas
+▶️  Matplotlib / Seaborn      ← aqui agora
+⬜  Projeto Stack Overflow Survey
+⬜  scikit-learn
+⬜  PyTorch
+⬜  NLP · Hugging Face
+```
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-grey?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch&logoColor=white)
 
-#### Contacts:
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/caio-medeiros-profile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
-  </a>
-  <a href="mailto:caiovictor.medeiros50@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="50" height="50"/>
-  </a>
-</p>
+### background
 
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
+### repositório de estudos → [ml-estudos](https://github.com/medeiroscaio/ml-estudos)
+
+```
+ml-estudos/
+├── numpy/        # ✓ concluído
+├── pandas/       # ✓ concluído
+├── matplotlib/   # em andamento
+├── sklearn/
+├── pytorch/
+└── nlp/
+```
+
+---
+
+[linkedin](https://linkedin.com/in/caio-medeiros-profile) · [github](https://github.com/medeiroscaio)

@@ -3,7 +3,6 @@
 `systems information · campina grande, br · data & ml`
 
 Penúltimo ano de Sistemas de Informação, com foco em análise de dados e machine learning.
-Construindo base sólida de forma estruturada antes de entrar no mercado como estagiário em dados.
 
 ---
 
@@ -13,7 +12,7 @@ Construindo base sólida de forma estruturada antes de entrar no mercado como es
 ✅ NumPy
 ✅ Pandas
 ▶️  Matplotlib / Seaborn      ← aqui agora
-⬜  Projeto Stack Overflow Survey
+✅  Projeto Stack Overflow Survey
 ⬜  scikit-learn
 ⬜  PyTorch
 ⬜  NLP · Hugging Face

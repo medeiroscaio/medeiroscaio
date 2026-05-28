@@ -11,7 +11,7 @@ Penúltimo ano de Sistemas de Informação, com foco em análise de dados e mach
 ```
 ✅ NumPy
 ✅ Pandas
-▶️  Matplotlib / Seaborn      ← aqui agora
+▶️  Matplotlib / Seaborn
 ✅  Projeto Stack Overflow Survey
 ⬜  scikit-learn
 ⬜  PyTorch
@@ -42,9 +42,9 @@ Penúltimo ano de Sistemas de Informação, com foco em análise de dados e mach
 
 ```
 ml-estudos/
-├── numpy/        # ✓ concluído
-├── pandas/       # ✓ concluído
-├── matplotlib/   # em andamento
+├── numpy/
+├── pandas/
+├── matplotlib/
 ├── sklearn/
 ├── pytorch/
 └── nlp/

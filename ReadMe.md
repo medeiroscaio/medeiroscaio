@@ -6,7 +6,7 @@ Penúltimo ano de Sistemas de Informação, com foco em análise de dados e mach
 ```
 ✅ NumPy
 ✅ Pandas
-▶️  Matplotlib / Seaborn
+✅  Matplotlib / Seaborn
 ✅  Projeto Stack Overflow Survey
 ⬜  scikit-learn
 ⬜  PyTorch
